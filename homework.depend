@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1359096667 source:c:\documents and settings\jowel\desktop\homework\main.cpp
+	"FMA.h"
+	<iostream>
+
+1359096821 c:\documents and settings\jowel\desktop\homework\fma.h
+	<iostream>
+
+1359092669 source:c:\documents and settings\jowel\desktop\homework\fma.cpp
+	"fma.h"
+
+1359039068 source:e:\homework\main.cpp
+	"FMA.h"
+	<iostream>
+
+1359039222 e:\homework\fma.h
+	<iostream>
+
+1359039222 source:e:\homework\fma.cpp
+	"fma.h"
+	<math.h>
+	<conio.h>
+
+1359039068 source:g:\homework\main.cpp
+	"FMA.h"
+	<iostream>
+
+1359039222 g:\homework\fma.h
+	<iostream>
+
+1359039222 source:g:\homework\fma.cpp
+	"fma.h"
+	<math.h>
+	<conio.h>
+
